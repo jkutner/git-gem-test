@@ -1,13 +1,18 @@
+GIT
+  remote: https://github.com/johnnyt/cowsay.git
+  revision: 35ea80306db8f424eb789757acbd124f6de25c8e
+  specs:
+    cowsay (0.2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    cowsay (0.2.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  cowsay
+  cowsay!
 
 BUNDLED WITH
    1.10.6
